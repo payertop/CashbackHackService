@@ -8,7 +8,7 @@ import static org.junit.Assert.assertEquals;
 public class CashbackHackServiceTest {
 
     @Test
-    public void shouldReturnRemainder100() {
+    public void shouldReturnRemainder50() {
 
         CashbackHackService service = new CashbackHackService();
 
